@@ -1,0 +1,12 @@
+bin/data/
+# virtualenv
+venv/
+.env
+collectedstatic/
+djangoblog/whoosh_index/
+uploads/
+settings_production.py
+*.md
+docs/
+logs/
+static/
