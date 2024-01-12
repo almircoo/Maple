@@ -3,7 +3,7 @@ bin/data/
 venv/
 .env
 collectedstatic/
-djangoblog/whoosh_index/
+maplecore/whoosh_index/
 uploads/
 settings_production.py
 *.md
