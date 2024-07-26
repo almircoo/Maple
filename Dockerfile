@@ -11,5 +11,5 @@ RUN pip install --upgrade pip  && \
         pip cache purge
         
 ADD . .
-RUN chmod +x /code/djangoblog/bin/docker_start.sh
+RUN chmod +x /code/maple/bin/docker_start.sh
 ENTRYPOINT ["/code/maple/bin/docker_start.sh"]
